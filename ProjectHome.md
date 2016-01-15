@@ -1,0 +1,1 @@
+SMHasher has moved to https://github.com/aappleby/smhasher - please update your links. :)
